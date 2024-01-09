@@ -44,4 +44,4 @@ streamlit.dataframe(my_data_rows)
 
 # adding a new next box
 fruit_add = streamlit.text_input('What fruit would you to add?','Jackfruit')
-streamlit.write('Thankyou for adding ', fruit_choice)
+streamlit.write('Thankyou for adding ', fruit_add)
